@@ -1,0 +1,16 @@
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\bin\Debug\net5.0\NurayMarhanArrayOdev.exe
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\bin\Debug\net5.0\NurayMarhanArrayOdev.deps.json
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\bin\Debug\net5.0\NurayMarhanArrayOdev.runtimeconfig.json
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\bin\Debug\net5.0\NurayMarhanArrayOdev.runtimeconfig.dev.json
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\bin\Debug\net5.0\NurayMarhanArrayOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\bin\Debug\net5.0\ref\NurayMarhanArrayOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\bin\Debug\net5.0\NurayMarhanArrayOdev.pdb
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.csproj.AssemblyReference.cache
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.AssemblyInfoInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.AssemblyInfo.cs
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.csproj.CoreCompileInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\ref\NurayMarhanArrayOdev.dll
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.pdb
+C:\Users\marha\OneDrive\Masaüstü\visual\NurayMarhanArrayOdev\NurayMarhanArrayOdev\obj\Debug\net5.0\NurayMarhanArrayOdev.genruntimeconfig.cache
